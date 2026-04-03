@@ -1,0 +1,57 @@
+[
+  {
+    "id": "rec_001",
+    "amount": 5600,
+    "type": "income",
+    "category": "Salary",
+    "date": "2026-03-01",
+    "notes": "Monthly salary credit",
+    "createdBy": "usr_admin_001",
+    "createdAt": "2026-04-02T08:00:00.000Z",
+    "updatedAt": "2026-04-02T08:00:00.000Z"
+  },
+  {
+    "id": "rec_002",
+    "amount": 850,
+    "type": "expense",
+    "category": "Rent",
+    "date": "2026-03-03",
+    "notes": "Office rent contribution",
+    "createdBy": "usr_admin_001",
+    "createdAt": "2026-04-02T08:00:00.000Z",
+    "updatedAt": "2026-04-02T08:00:00.000Z"
+  },
+  {
+    "id": "rec_003",
+    "amount": 420,
+    "type": "expense",
+    "category": "Utilities",
+    "date": "2026-03-08",
+    "notes": "Internet and electricity",
+    "createdBy": "usr_admin_001",
+    "createdAt": "2026-04-02T08:00:00.000Z",
+    "updatedAt": "2026-04-02T08:00:00.000Z"
+  },
+  {
+    "id": "rec_004",
+    "amount": 1200,
+    "type": "income",
+    "category": "Consulting",
+    "date": "2026-03-16",
+    "notes": "Freelance consulting payment",
+    "createdBy": "usr_admin_001",
+    "createdAt": "2026-04-02T08:00:00.000Z",
+    "updatedAt": "2026-04-02T08:00:00.000Z"
+  },
+  {
+    "id": "rec_005",
+    "amount": 275,
+    "type": "expense",
+    "category": "Marketing",
+    "date": "2026-03-22",
+    "notes": "Campaign design tools",
+    "createdBy": "usr_admin_001",
+    "createdAt": "2026-04-02T08:00:00.000Z",
+    "updatedAt": "2026-04-02T08:00:00.000Z"
+  }
+]

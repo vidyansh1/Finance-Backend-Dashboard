@@ -1,0 +1,16 @@
+{
+  "name": "finance-data-processing-backend",
+  "version": "1.0.0",
+  "description": "Finance dashboard backend assignment with RBAC, summaries, and file-based persistence.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.17.0"
+  }
+}

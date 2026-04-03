@@ -1,0 +1,42 @@
+[
+  {
+    "id": "usr_admin_001",
+    "name": "System Admin",
+    "email": "admin@finance.local",
+    "passwordHash": "$2b$10$aIfjA/kEbrWhtIC0j.D4NOc.cfMSaXn0TjJNfeHeXv4vL/kr.d1Yy",
+    "role": "admin",
+    "status": "active",
+    "createdAt": "2026-04-02T08:00:00.000Z",
+    "updatedAt": "2026-04-02T08:00:00.000Z"
+  },
+  {
+    "id": "usr_analyst_001",
+    "name": "Data Analyst",
+    "email": "analyst@finance.local",
+    "passwordHash": "$2b$10$iKQmBAZWsh2eyBVmVv.qc.TXkTN/YfFMFYpuScUY10qPW14jzbJsy",
+    "role": "analyst",
+    "status": "active",
+    "createdAt": "2026-04-02T08:00:00.000Z",
+    "updatedAt": "2026-04-02T08:00:00.000Z"
+  },
+  {
+    "id": "usr_viewer_001",
+    "name": "Dashboard Viewer",
+    "email": "viewer@finance.local",
+    "passwordHash": "$2b$10$xHXYjNGpTTp3pFTKmT05ruFix8BFx/PT37acMvfb0yCFPF9LV8RFm",
+    "role": "viewer",
+    "status": "active",
+    "createdAt": "2026-04-02T08:00:00.000Z",
+    "updatedAt": "2026-04-02T08:00:00.000Z"
+  },
+  {
+    "id": "usr_inactive_001",
+    "name": "Inactive Analyst",
+    "email": "inactive@finance.local",
+    "passwordHash": "$2b$10$iKQmBAZWsh2eyBVmVv.qc.TXkTN/YfFMFYpuScUY10qPW14jzbJsy",
+    "role": "analyst",
+    "status": "inactive",
+    "createdAt": "2026-04-02T08:00:00.000Z",
+    "updatedAt": "2026-04-02T08:00:00.000Z"
+  }
+]
